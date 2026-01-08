@@ -1,0 +1,5 @@
+{
+  "name": "PharmaSync - Drug Interaction Analyzer",
+  "description": "A comprehensive medical tool to analyze drug combinations, identify potential side effects, and provide management solutions using advanced AI.",
+  "requestFramePermissions": []
+}
